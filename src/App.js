@@ -21,7 +21,7 @@ const App = () => {
   },[query])
 
   const queryFunction = (q) =>{
-    setQuery(q)
+    setQuery(q.toLowerCase())
   }
 
   const fetchComment = async (currPage) => {
