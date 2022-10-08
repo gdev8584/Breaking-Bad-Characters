@@ -2,7 +2,8 @@
 
 ### weblink of project: https://breaking-bad-characters-devanand.vercel.app/
 
- Details:-
+ ####Details:-
+ 
 • Create a webpage to search about the breaking bad cast.
 
 • Render all the characters if the search field is empty.
