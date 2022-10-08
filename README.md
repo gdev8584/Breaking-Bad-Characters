@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Breaking Bad Character Page
 
 ### weblink of project: https://breaking-bad-characters-devanand.vercel.app/
+
+ Details:-
+• Create a webpage to search about the breaking bad cast.
+• Render all the characters if the search field is empty.
+• Use pagination to organized the number of characters on one page.
+• On Hover over each page spin the image and show some details about the character.
+• On click on each character go to the wiki link about the character bio.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
